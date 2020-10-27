@@ -9,7 +9,9 @@
   "dependencies": {
     "@apollo/client": "3.1.1",
     "graphql": "^15.3.0",
+    "isomorphic-unfetch": "^3.1.0",
     "next": "latest",
+    "node-fetch-har": "^1.0.1",
     "prop-types": "^15.6.2",
     "react": "^16.7.0",
     "react-dom": "^16.7.0"
